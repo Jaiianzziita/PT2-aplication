@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Malla</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_sign_in">Iniciar sesion</string>
+    <string name="button_sign_up">Registrar</string>
+    <string name="button_send">Enviar</string>
+    <string name="text_forgot_password">Olvidaste tu constraseña?</string>
+    <string name="text_signin_message">Hola, ingresa con tu cuenta</string>
+    <string name="text_signin_social_media">Or Sign in using social media</string>
+    <string name="text_signup_social_media">Or Sign up using social media</string>
+    <string name="text_signin_signup">No tienes cuenta? <b>Registrate</b></string>
+    <string name="text_signup_terms">Al registrarte, agregas nuestros<b>terminos y condiciones</b></string>
+    <string name="text_signup_message">Hola, vamos a configurar tu cuenta</string>
+
+    <string name="text_forgot_password_title">Olvidaste tu contraseña? No te preocupes</string>
+    <string name="text_forgot_password_message">Te enviaremos un link para restablecer tu contraseña</string>
+
+    <string name="hint_email">Correo</string>
+    <string name="hint_phone">Numero telefonico</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="tab_text_1">CHAT</string>
+    <string name="tab_text_2">GRUPOS</string>
+    <string name="tab_text_3">UBICACION</string>
+    <string name="personAdd">Agregar contacto</string>
+    <string name="menu">Menu</string>
+    <string name="buscar">Buscar</string>
+    <string name="content_description_buscar">Buscar</string>
+    <string name="content_description_agregar">Agregar contacto</string>
+    <string name="content_description_menu">Menu</string>
+    <string name="crearGrupo">Nuevo grupo</string>
+    <string name="crearContactoEmergencia">Nuevo contacto de emergencia</string>
+    <string name="contacts">Contactos</string>
+    <string name="buscar2">Buscar</string>
+    <string name="content_description_buscar2">Buscar</string>
+    <string name="menu2">Menu</string>
+    <string name="content_description_menu2">Menu</string>
+    <string name="profile">Perfil</string>
+    <string name="nombUser">Cambiar nombre</string>
+    <string name="profilephoto">Foto de perfil</string>
+    <string name="cambiar_nombre_user">Cambiar nombre de usuario</string>
+    <string name="opcional">opcional</string>
+    <string name="card_enable_pass">Habilitar cambio contraseña</string>
+    <string name="change_password">contraseña nueva</string>
+    <string name="confirm_password">confirmar contraseña</string>
+    <string name="text_changeNameUsser">Cambiar nombre de usuario</string>
+    <string name="cambiarNombreUsuario">Nombre de usuario</string>
+    <string name="hint_passwordProfile">Contraseña nueva</string>
+    <string name="hint_passwordProfile2">Confirmar contraseña</string>
+    <string name="ajustesChats">Ajuste chats</string>
+    <string name="actualizarContactos">Actualizar contactos</string>
+    <string name="ajustesUbicacion">Ajustes Ubicacion</string>
+</resources>
