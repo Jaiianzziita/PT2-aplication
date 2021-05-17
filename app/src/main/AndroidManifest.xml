@@ -6,6 +6,8 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
         android:allowBackup="true"
@@ -21,20 +23,20 @@
             android:name=".TabsActivity"
             android:label="@string/title_activity_tabs"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Enter.CuaMain" />
-        <activity android:name=".Enter.TrMain" />
-        <activity android:name=".Enter.SecMain" />
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+             <activity android:name=".Enter.CuaMain" />
+                <activity android:name=".Enter.TrMain" />
+                <activity android:name=".Enter.SecMain" />
+                <activity android:name=".MainActivity">
+                  <intent-filter>
+                     <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".ForgotPasswordActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
+                      <category android:name="android.intent.category.LAUNCHER" />
+                     </intent-filter>
+                      </activity>
+                    <activity
+                    android:name=".ForgotPasswordActivity"
+                      android:theme="@style/AppTheme.NoActionBar" />
+                        <activity
             android:name=".SignupActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
